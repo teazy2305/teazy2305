@@ -10,9 +10,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
 </div>
 
-###
-
-<img align="left" height="165" src="https://i.gyazo.com/86af4f709673fac27501e438661efeb4.jpg"  />
 
 ###
 
